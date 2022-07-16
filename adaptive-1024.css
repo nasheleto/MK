@@ -1,0 +1,29 @@
+@media (max-width: 1024px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .section-one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    padding: 0 10px;
+  }
+
+  .section__text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .section__text .text {
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  .section-one .section__image_none {
+    margin: 0;
+    width: 100%;
+  }
+}

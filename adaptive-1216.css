@@ -1,0 +1,9 @@
+@media (max-width: 1216px) {
+  .container {
+    max-width: 1024px;
+  }
+
+  .section-one {
+    padding: 0 10px;
+  }
+}

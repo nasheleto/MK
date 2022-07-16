@@ -16,25 +16,22 @@ body{
 header{
 	background-color: #202020;
 }
-.header, .footer{
-	max-width: 1196px;
-	margin: 0 auto;
-}
-.section____one{
-	max-width: 1216px;
-	margin: 0 auto;
-}
-.section-1196px{
-	max-width: 1196px;
-	margin: 0 auto;
-}
-.section-1143px{
-	max-width: 1143px;
-	margin: 0 auto;
+.container {
+  max-width: 1216px;
+  margin: 0 auto;
 }
 .section-1156px{
 	max-width: 1156px;
 	margin: 0 auto;
+}
+.our-stats-inner {
+  padding: 0 36.5px;
+}
+.our-partners-inner {
+  padding: 0 30px;
+}
+.about-us-inner, .subscribe-inner, .faqs-inner, .header, .footer {
+  padding: 0 10px;
 }
 
 /*font-weight*/
